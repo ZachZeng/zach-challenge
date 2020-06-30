@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zach-challenge/precache-manifest.4fac8b5685959e08361af3585cc9c577.js"
+  "/zach-challenge/precache-manifest.42035171a3773d1bf13b15f00aa12d39.js"
 );
 
 self.addEventListener('message', (event) => {
