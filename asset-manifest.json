@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ZachZeng/zach-challenge/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ZachZeng/zach-challenge/static/js/main.fee8f230.chunk.js",
-    "main.js.map": "/ZachZeng/zach-challenge/static/js/main.fee8f230.chunk.js.map",
-    "runtime-main.js": "/ZachZeng/zach-challenge/static/js/runtime-main.d591c0c9.js",
-    "runtime-main.js.map": "/ZachZeng/zach-challenge/static/js/runtime-main.d591c0c9.js.map",
-    "static/js/2.d829ca80.chunk.js": "/ZachZeng/zach-challenge/static/js/2.d829ca80.chunk.js",
-    "static/js/2.d829ca80.chunk.js.map": "/ZachZeng/zach-challenge/static/js/2.d829ca80.chunk.js.map",
-    "index.html": "/ZachZeng/zach-challenge/index.html",
-    "precache-manifest.539b17de6157e3a634a4e69e0dd4ab54.js": "/ZachZeng/zach-challenge/precache-manifest.539b17de6157e3a634a4e69e0dd4ab54.js",
-    "service-worker.js": "/ZachZeng/zach-challenge/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ZachZeng/zach-challenge/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d829ca80.chunk.js.LICENSE.txt": "/ZachZeng/zach-challenge/static/js/2.d829ca80.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ZachZeng/zach-challenge/static/media/logo.5d5d9eef.svg"
+    "main.css": "/zach-challenge/static/css/main.5f361e03.chunk.css",
+    "main.js": "/zach-challenge/static/js/main.7b5e5547.chunk.js",
+    "main.js.map": "/zach-challenge/static/js/main.7b5e5547.chunk.js.map",
+    "runtime-main.js": "/zach-challenge/static/js/runtime-main.b57eb2f2.js",
+    "runtime-main.js.map": "/zach-challenge/static/js/runtime-main.b57eb2f2.js.map",
+    "static/js/2.d829ca80.chunk.js": "/zach-challenge/static/js/2.d829ca80.chunk.js",
+    "static/js/2.d829ca80.chunk.js.map": "/zach-challenge/static/js/2.d829ca80.chunk.js.map",
+    "index.html": "/zach-challenge/index.html",
+    "precache-manifest.4fac8b5685959e08361af3585cc9c577.js": "/zach-challenge/precache-manifest.4fac8b5685959e08361af3585cc9c577.js",
+    "service-worker.js": "/zach-challenge/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/zach-challenge/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d829ca80.chunk.js.LICENSE.txt": "/zach-challenge/static/js/2.d829ca80.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/zach-challenge/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d591c0c9.js",
+    "static/js/runtime-main.b57eb2f2.js",
     "static/js/2.d829ca80.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fee8f230.chunk.js"
+    "static/js/main.7b5e5547.chunk.js"
   ]
 }
